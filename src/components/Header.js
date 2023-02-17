@@ -11,7 +11,7 @@ function Header () {
 <ul className="headerRight">
   <li>
     <img height={20} width={20} src="/img/credit-card.svg"/>
-    <span className="price">1589 руб.</span>
+    <span className="price">1600 руб.</span>
   </li>
   <li>
   <img height={20} width={20} src="/img/person.svg"/>
